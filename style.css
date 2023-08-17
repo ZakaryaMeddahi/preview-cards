@@ -157,6 +157,7 @@ section button {
   padding: 10px;
   border: 2px solid transparent;
   border-radius: 20px;
+  cursor: pointer;
   transition: 0.5s;
 }
 
