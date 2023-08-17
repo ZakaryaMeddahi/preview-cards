@@ -1,7 +1,11 @@
 
 # Frontend Mentor - 3-column preview card component solution
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-).
+I've just completed a front-end coding challenge from @frontendmentor! 🎉
+
+You can see my solution here: https://www.frontendmentor.io/solutions/3columnpreviewcard-o-0ifIGZpH
+
+Any suggestions on how I can improve are welcome!
 
 
 ### Light Theme
@@ -28,6 +32,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Author
 
-- Website - [Zakarya Meddahi](https://www.your-site.com)
+<!-- - Website - [Zakarya Meddahi](https://zakaryameddahi.github.io/preview-cards/) -->
 - Frontend Mentor - [@ZakaryaMeddahi](https://www.frontendmentor.io/profile/ZakaryaMeddahi)
 - LinkedIn - [Zakarya Meddahi](https://www.linkedin.com/in/zakarya-meddahi-472bb3241/)

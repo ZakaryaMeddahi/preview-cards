@@ -9,6 +9,7 @@ const darkTheme = () => {
   cards.forEach(card => {
     card.classList.add(`${card.classList[0]}_night`);
   });
+  checkbox.checked = true ;
 }
 
 const lightTheme = () => {
